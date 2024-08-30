@@ -1,2 +1,2 @@
-# Est-gio---Ribeir-o-Preto
+# Estágio Ribeirão Preto
 Desafios técnicos para o estágio
